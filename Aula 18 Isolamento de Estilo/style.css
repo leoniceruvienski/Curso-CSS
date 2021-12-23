@@ -1,0 +1,13 @@
+
+.botao-azul {
+    background: #df1256;
+    color: #fff;
+    padding: 6px 15px;
+    border: none;
+    border-radius: 6px;
+    text-transform: capitalize;
+    font-size: 17px;
+    outline: none;
+    text-decoration: none;
+
+}
